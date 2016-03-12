@@ -1,0 +1,61 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\MIT\bin\Debug\MIT.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\MIT\bin\Debug\MIT.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\MIT\bin\Debug\MIT.xml
+C:\Users\Dell\AppData\Local\Temporary Projects\MIT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\MIT\obj\x86\Debug\MIT.Resources.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\MIT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dell\AppData\Local\Temporary Projects\MIT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dell\AppData\Local\Temporary Projects\MIT\obj\x86\Debug\MIT.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\MIT\obj\x86\Debug\MIT.xml
+C:\Users\Dell\AppData\Local\Temporary Projects\MIT\obj\x86\Debug\MIT.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\MIT\obj\x86\Debug\MIT.Loading.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\MIT\obj\x86\Debug\MIT.Welcome.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.xml
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\bin\Debug\MIT.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\bin\Debug\MIT.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\bin\Debug\MIT.xml
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase2.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Welcome.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Loading.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Resources.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase3.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase4.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase5_8.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase5_6.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase5_5.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase5_4.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase5_3.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase5_2.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase5_1.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase5_7.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase6.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase3_1.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Credits.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.exe
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.xml
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.pdb
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\bin\Debug\MIT.exe
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\bin\Debug\MIT.pdb
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\bin\Debug\MIT.xml
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase3_1.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase6.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase5_8.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase5_6.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase5_5.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase5_4.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase5_3.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase5_2.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase5_1.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase5_7.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase4.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase3.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Phase2.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Welcome.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Loading.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.Resources.resources
+C:\Users\Ace\Documents\Visual Studio 2010\Projects\MIT\MIT\obj\x86\Debug\MIT.vbproj.GenerateResource.Cache
